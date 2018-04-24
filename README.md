@@ -1,7 +1,7 @@
 # GomokuAI
-基于piskvork manager的五子棋AI
+Gomoku AI based on piskvork manager protocol;
 
-MIN-MAX search, Alpha-Beta pruning are implemented, more optimization to go: hash/zobrist, deep search
+MIN-MAX search, Alpha-Beta pruning are implemented, more optimization to go: hash/zobrist, deep search.
 
 Open piskvork.exe,
 
